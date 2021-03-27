@@ -12,7 +12,6 @@ function App() {
         </p>
         <h1>Assalamua'laikum,I hope you are well</h1>
         <h1>Assalamua'laikum</h1>
-        <h1>Assalamua'laikum</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
